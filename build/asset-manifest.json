@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Er-Abhay-FSD.github.io/calculator-React/static/css/main.87e1fde0.css",
+    "main.js": "/Er-Abhay-FSD.github.io/calculator-React/static/js/main.fe0aa5cd.js",
+    "static/js/453.83bdee10.chunk.js": "/Er-Abhay-FSD.github.io/calculator-React/static/js/453.83bdee10.chunk.js",
+    "static/media/back.png": "/Er-Abhay-FSD.github.io/calculator-React/static/media/back.062784d2233016a3b4e8.png",
+    "index.html": "/Er-Abhay-FSD.github.io/calculator-React/index.html",
+    "main.87e1fde0.css.map": "/Er-Abhay-FSD.github.io/calculator-React/static/css/main.87e1fde0.css.map",
+    "main.fe0aa5cd.js.map": "/Er-Abhay-FSD.github.io/calculator-React/static/js/main.fe0aa5cd.js.map",
+    "453.83bdee10.chunk.js.map": "/Er-Abhay-FSD.github.io/calculator-React/static/js/453.83bdee10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e1fde0.css",
+    "static/js/main.fe0aa5cd.js"
+  ]
+}
